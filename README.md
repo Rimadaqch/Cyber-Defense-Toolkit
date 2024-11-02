@@ -1,4 +1,5 @@
 # Cyber-Defense-Toolkit
+
 Cyber-Defense-Toolkit is a suite of tools designed to enhance cybersecurity by providing real-time threat detection, anomaly detection in network traffic, and automated vulnerability assessments. Leveraging machine learning and data analysis techniques, this toolkit enables proactive monitoring and defense mechanisms for network security.
 **************************************************************************************************
 Architecture 
@@ -7,12 +8,12 @@ Architecture
 
 
 To clone my repo use this command :git clone https://github.com/yourusername/Cyber-Defense-Toolkit.git
-cd Cyber-Defense-Toolkit
 
 
-#Features
-Real-time Threat Detection
-Anomaly Detection
-Vulnerability Scanning
-Data Encryption
-User-friendly Interface
+
+#Features:
+Real-time Threat Detection/
+Anomaly Detection/
+Vulnerability Scanning/
+Data Encryption/
+User-friendly Interface.
