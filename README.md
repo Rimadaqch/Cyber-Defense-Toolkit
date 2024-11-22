@@ -31,8 +31,8 @@ The Cyber Defense Toolkit consists of the following core components:
 **Purpose:** Detect potential vulnerabilities in network assets that attackers could exploit.
 **Method:** Simulates vulnerability scans to identify open ports, outdated software, or misconfigurations.
 
-## Model: Anomaly Detection Using Isolation Forest
-
+## Model
+Anomaly Detection Using Isolation Forest
 The Isolation Forest algorithm is employed for anomaly detection, effectively identifying unusual patterns in network traffic.
 
 ### Why Isolation Forest?
@@ -50,7 +50,7 @@ The Isolation Forest algorithm is employed for anomaly detection, effectively id
 - **Handles High Dimensionality:** Effective in high-dimensional spaces without suffering from the curse of dimensionality.
 
 *********************************************************************************************************************************************
-
+## Installation
 To clone my repo use this command :git clone https://github.com/yourusername/Cyber-Defense-Toolkit.git
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
