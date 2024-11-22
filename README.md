@@ -10,7 +10,6 @@ The Cyber Defense Toolkit is an advanced, AI-driven solution designed to enhance
 - [Model](#model)
 - [Usage](#usage)
 - [Installation](#installation)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Overview
@@ -34,7 +33,6 @@ The Cyber Defense Toolkit consists of the following core components:
 
 ## Model: Anomaly Detection Using Isolation Forest
 
-### Overview
 The Isolation Forest algorithm is employed for anomaly detection, effectively identifying unusual patterns in network traffic.
 
 ### Why Isolation Forest?
